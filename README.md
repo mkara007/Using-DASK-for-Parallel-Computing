@@ -1,2 +1,2 @@
-# Using-DASK-for-Parallel-Computing
-Tech Stack: Python (Dask, NumPy, Pandas)
+# Using DASK for Parallel Computing
+Tech Stack: Python (DASK, NumPy, Pandas)
